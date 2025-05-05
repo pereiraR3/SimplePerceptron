@@ -58,7 +58,10 @@ Para executar os scripts, você precisará ter o Python 3 instalado em seu siste
 
 ---
 
-**Autor:** Anthony Ricardo Rodrigues Rezende
-**Data:** 4 de Maio de 2025
+**Autor:** Anthony Ricardo Rodrigues Rezende 
+
+**Data:** 4 de Maio de 2025 \newline
+
 **Disciplina:** Inteligência Artificial
+
 **Instituição:** Universidade Federal de Mato Grosso
